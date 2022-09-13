@@ -1,0 +1,611 @@
+/*
+	@name frame_1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1868px; width: 1868px; height: 929px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_frame_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1868px;
+	height: 929px;
+}
+
+#_bg__frame_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1868px;
+	height: 929px;
+	background:#;
+	background: -webkit-linear-gradient(-270deg , rgba(253,251,251,1) 0%, rgba(235,237,238,1) 100%);
+	background: -o-linear-gradient(-270deg , rgba(253,251,251,1) 0%, rgba(235,237,238,1) 100%);
+	background: -moz-linear-gradient(-270deg , rgba(253,251,251,1) 0%, rgba(235,237,238,1) 100%);
+	background: -ms-linear-gradient(-270deg , rgba(253,251,251,1) 0%, rgba(235,237,238,1) 100%);
+	background: linear-gradient(-270deg , rgba(253,251,251,1) 0%, rgba(235,237,238,1) 100%);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1930px;
+	height: 133px;
+	border: 5px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#emotemario1_1 {
+	top: 7px;
+	left: 28px;
+	width: 108px;
+	height: 109px;
+}
+
+
+#rectangle_2 {
+	top: 173px;
+	left: 46px;
+	width: 1320px;
+	height: 576px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-270deg , rgba(79,172,254,1) 0%, rgba(0,242,254,1) 100%);
+	background: -o-linear-gradient(-270deg , rgba(79,172,254,1) 0%, rgba(0,242,254,1) 100%);
+	background: -moz-linear-gradient(-270deg , rgba(79,172,254,1) 0%, rgba(0,242,254,1) 100%);
+	background: -ms-linear-gradient(-270deg , rgba(79,172,254,1) 0%, rgba(0,242,254,1) 100%);
+	background: linear-gradient(-270deg , rgba(79,172,254,1) 0%, rgba(0,242,254,1) 100%);
+}
+
+
+#blog_do_lindao {
+	top: 173px;
+	left: 1426px;
+	width: 461px;
+	height: 96px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	text-align: left;
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: #000000;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#FFFFFF;
+}
+
+
+#inicio {
+	top: 32px;
+	left: 214px;
+	width: 173px;
+	height: 92px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mais_nova {
+	top: 39px;
+	left: 494px;
+	width: 219px;
+	height: 69px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mais_relevante {
+	top: 39px;
+	left: 831px;
+	width: 299px;
+	height: 69px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#emotemario_2 {
+	top: 173px;
+	left: 895px;
+	width: 387px;
+	height: 387px;
+}
+
+
+#unidos_contra_o_a_a_ {
+	top: 231px;
+	left: 94px;
+	width: 529px;
+	height: 80px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	text-align: left;
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: #000000;
+	color:#FFFFFF;
+}
+
+
+#ainda_n_o_se_uniu_conosco__venha_ {
+	top: 446px;
+	left: 94px;
+	width: 430px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#FFFFFF;
+}
+
+
+#rectangle_3 {
+	top: 516px;
+	left: 94px;
+	width: 403px;
+	height: 90px;
+	border: 1px solid #000000;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#unir_se {
+	top: 536px;
+	left: 225px;
+	width: 184px;
+	height: 76px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_4 {
+	top: 864px;
+	left: 0px;
+	width: 1870px;
+	height: 67px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#todos_os_direitos_reservados_ao_mario_matheus_contato__mariomatheuspombal_gmail_com_pix__63985161743 {
+	top: 886px;
+	left: 20px;
+	width: 1836px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+#page_desktop___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__desktop___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_5 {
+	top: 0px;
+	left: 0px;
+	width: 1450px;
+	height: 133px;
+	border: 5px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#inicio_ek1 {
+	top: 40px;
+	left: 203px;
+	width: 161px;
+	height: 69px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mais_nova_ek1 {
+	top: 40px;
+	left: 424px;
+	width: 281px;
+	height: 69px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mais_relevante_ek1 {
+	top: 40px;
+	left: 765px;
+	width: 299px;
+	height: 78px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#emotemario1_2 {
+	top: 7px;
+	left: 21px;
+	width: 81px;
+	height: 109px;
+}
+
+
+#campanha_de_combate_a_fome_ {
+	top: 215px;
+	left: 365px;
+	width: 763px;
+	height: 92px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ellipse_1 {
+	top: 354px;
+	left: 50px;
+	width: 1341px;
+	height: 670.5px;
+}
+
+
+#emotemario1_3 {
+	top: 467px;
+	left: 546px;
+	width: 349px;
+	height: 445px;
+}
+
+
+#vector {
+	top: 563px;
+	left: 249px;
+	width: 64.84px;
+	height: 51.88px;
+}
+
+
+#todos_os_direitos_reservados_ao_mario_matheus_contato__mariomatheuspombal_gmail_com_pix__63985161743_ek1 {
+	top: 997px;
+	left: -3px;
+	width: 1455px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#vector_ek1 {
+	top: 471px;
+	left: 360px;
+	width: 64px;
+	height: 51px;
+}
+
+
+#vector_ek2 {
+	top: 391px;
+	left: 503px;
+	width: 56px;
+	height: 80px;
+}
+
+
+#vector_ek3 {
+	top: 365px;
+	left: 632px;
+	width: 64px;
+	height: 58.72px;
+}
+
+
+#vector_ek4 {
+	top: 365px;
+	left: 765px;
+	width: 86px;
+	height: 60px;
+}
+
+
+#vector_ek5 {
+	top: 410px;
+	left: 920px;
+	width: 64px;
+	height: 60.8px;
+}
+
+
+#vector_ek6 {
+	top: 473px;
+	left: 1023px;
+	width: 78px;
+	height: 78px;
+}
+
+
+#vector_ek7 {
+	top: 563px;
+	left: 1101px;
+	width: 79px;
+	height: 79px;
+}
+
+
+#vector_ek8 {
+	top: 788px;
+	left: 993px;
+	width: 319px;
+	height: 119px;
+}
+
+#page_imac___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 720px;
+}
+
+#_bg__imac___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 720px;
+	background:rgba(255,255,255,1);
+}
+
+
+#emotemario1_4 {
+	top: 54px;
+	left: 119px;
+	width: 62px;
+	height: 83px;
+}
+
+
+#blog_do_lindao_ek1 {
+	top: 90px;
+	left: 192px;
+	width: 195px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ellipse_2 {
+	top: -360px;
+	left: 407px;
+	width: 924px;
+	height: 924px;
+	-ms-border-radius: 462px / 462px;
+	-o-border-radius: 462px / 462px;
+	-moz-border-radius: 462px / 462px;
+	-webkit-border-radius: 462px / 462px;
+	border-radius: 462px / 462px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-225deg , rgba(42,250,223,1) 0%, rgba(76,131,255,1) 100%);
+	background: -o-linear-gradient(-225deg , rgba(42,250,223,1) 0%, rgba(76,131,255,1) 100%);
+	background: -moz-linear-gradient(-225deg , rgba(42,250,223,1) 0%, rgba(76,131,255,1) 100%);
+	background: -ms-linear-gradient(-225deg , rgba(42,250,223,1) 0%, rgba(76,131,255,1) 100%);
+	background: linear-gradient(-225deg , rgba(42,250,223,1) 0%, rgba(76,131,255,1) 100%);
+}
+
+
+#intersect {
+	top: 283px;
+	left: 535.42px;
+	width: 594.03px;
+	height: 201.22px;
+}
+
+
+#inicio_ek2 {
+	top: 90px;
+	left: 485px;
+	width: 75px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mais_nova_ek2 {
+	top: 90px;
+	left: 590px;
+	width: 124px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mais_recente {
+	top: 90px;
+	left: 744px;
+	width: 153px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#emotemario_3 {
+	top: 283px;
+	left: 666px;
+	width: 332px;
+	height: 332px;
+}
+
+#____icon__view_carousel_ {
+	top: 81px;
+	left: 1129px;
+	width: 38px;
+	height: 30.4px;
+}
+
+#vector_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 38px;
+	height: 30.4px;
+}
+
+
+#vida {
+	top: 360px;
+	left: 119px;
+	width: 144px;
+	height: 76px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#3FAFF3;
+}
+
+
+#unidos_contra_a_polui__o {
+	top: 434px;
+	left: 119px;
+	width: 311px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#milh_es_de_vidas_j__sofrem_com_a_decad_ncia_do_meio_ambiente_e_esse_n_mero_ir__dobrar_at__2024_se_n_o_come_armos_a_conscientizar_a_popula__o_ {
+	top: 484px;
+	left: 119px;
+	width: 343.5px;
+	height: 82.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 15px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_6 {
+	top: 582px;
+	left: 119px;
+	width: 248px;
+	height: 52px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-225deg , rgba(42,250,223,1) 0%, rgba(76,131,255,1) 100%);
+	background: -o-linear-gradient(-225deg , rgba(42,250,223,1) 0%, rgba(76,131,255,1) 100%);
+	background: -moz-linear-gradient(-225deg , rgba(42,250,223,1) 0%, rgba(76,131,255,1) 100%);
+	background: -ms-linear-gradient(-225deg , rgba(42,250,223,1) 0%, rgba(76,131,255,1) 100%);
+	background: linear-gradient(-225deg , rgba(42,250,223,1) 0%, rgba(76,131,255,1) 100%);
+}
+
+
+#unir_se_ek1 {
+	top: 587px;
+	left: 175px;
+	width: 170px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
